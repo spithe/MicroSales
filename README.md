@@ -2,8 +2,11 @@ Micro$ales
 Participantes
 
 Antônio Wagner Carneiro Júnior
+
 Richarlisson de Sousa Silva
+
 Felipe Gabriel Alves de Oliveira
+
 Euclaudio Vinícius Paulo de Lima
 
 Linguagens Utilizadas
