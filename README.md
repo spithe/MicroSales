@@ -1,23 +1,23 @@
 Micro$ales
-Participantes
+Participantes:
 
 Antônio Wagner Carneiro Júnior;
 Richarlisson de Sousa Silva;
 Felipe Gabriel Alves de Oliveira;
 Euclaudio Vinícius Paulo de Lima.
 
-Linguagens Utilizadas
+Linguagens Utilizadas:
 
-TypeScript
-JavaScript
-CSS
+TypeScript;
+JavaScript;
+CSS.
 
-Serviços Utilizados
+Serviços Utilizados:
 
-Clerk (autenticação e login) (https://clerk.com/)
-Turso DB (https://turso.tech/)
+Clerk (autenticação e login) (https://clerk.com/);
+Turso DB (https://turso.tech/).
 
-Sobre o Projeto
+Sobre o Projeto:
 
 O Micro$ales é um sistema web voltado para organização e acompanhamento de vendas, pedidos e despesas, funcionando como um mini CRM com foco em controle financeiro e gestão de pipeline. A aplicação permite que o usuário registre leads, acompanhe o status de pedidos em diferentes etapas, visualize indicadores de desempenho no dashboard e monitore receitas e gastos mensais. Os dados são armazenados em banco de dados por meio do Turso DB, enquanto o acesso ao sistema é controlado com autenticação segura via Clerk.
 
